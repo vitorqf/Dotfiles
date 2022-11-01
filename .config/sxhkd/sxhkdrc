@@ -1,0 +1,8 @@
+super + d
+	ulauncher
+super + e
+	cutefish-filemanager
+super + t
+	cutefish-terminal
+Print
+	flameshot gui
